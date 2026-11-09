@@ -46,7 +46,7 @@ Protects what shouldn't leave. There are three privacy modes (`paranoid`, `balan
 ## Installation
 
 ```bash
-git clone https://github.com/jorgeress/cibo.git
+git clone https://github.com/0xjgr/cibo.git
 cd cibo
 
 python -m venv venv

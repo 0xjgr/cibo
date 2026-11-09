@@ -44,7 +44,7 @@ Protege lo que no debe salir. Hay tres modos de privacidad (`paranoid`, `balance
 ## Instalación
 
 ```bash
-git clone https://github.com/jorgeress/cibo.git
+git clone https://github.com/0xjgr/cibo.git
 cd cibo
 
 python -m venv venv
